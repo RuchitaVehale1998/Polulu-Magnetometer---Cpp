@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Arduino build output
+/build/
+*.hex
+*.elf
+
+# Editor / OS cruft
+*~
+*.swp
+.vscode/
